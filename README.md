@@ -1,4 +1,4 @@
-# 📻 SN-Radio - Intégration pour FiveM FR :flag_fr:
+# 📻 SN-Radio - Intégration pour FiveM FR
 
 Bienvenue dans l'intégration officielle de **SN-Radio** pour **FiveM**.  
 Ce script permet à vos joueurs d’écouter la radio en direct depuis le serveur, pour une ambiance immersive et communautaire.
@@ -60,7 +60,7 @@ Faire un don: https://ko-fi.com/snradio
 
 </p>
 
-# 📻 SN-Radio - Integration for FiveM US :flag_us:  
+# 📻 SN-Radio - Integration for FiveM US
 
 Welcome to the official **SN-Radio** integration for **FiveM**.
 This script allows your players to listen to live radio directly from the server, creating an immersive and community-driven atmosphere.
@@ -122,6 +122,7 @@ Support us with a donation: [https://ko-fi.com/snradio](https://ko-fi.com/snradi
 <p align="center">
   <img src="https://zupimages.net/up/25/21/tgn9.png" alt="SN-Radio Logo" width="300"/>
 </p>  
+
 
 
 
