@@ -60,54 +60,67 @@ Faire un don: https://ko-fi.com/snradio
 
 </p>
 
+# 📻 SN-Radio - Integration for FiveM
 
-
-📻 SN-Radio - Integration for FiveM
-
-Welcome to the official SN-Radio integration for FiveM.
+Welcome to the official **SN-Radio** integration for **FiveM**.
 This script allows your players to listen to live radio directly from the server, creating an immersive and community-driven atmosphere.
 
-🚀 Features
+---
 
-🎵 Automatic playback of SN-Radio upon joining the game
+## 🚀 Features
 
-💼 Optimized for easy integration into any type of server
+* 🎵 Automatic playback of **SN-Radio** upon joining the game
+* 💼 Optimized for easy integration into any type of server
+* 🎨 Compatible with custom UI systems
 
-🎨 Compatible with custom UI systems
+---
 
-📁 Installation
+## 📁 Installation
 
-Add the sn-radio-main folder to your resources directory:
+1. **Add** the `sn-radio-main` folder to your `resources` directory:
 
-resources/[local]/sn-radio-main
+   ```
+   resources/[local]/sn-radio-main
+   ```
 
+2. **Add** the resource to your `server.cfg`:
 
-Add the resource to your server.cfg:
+   ```cfg
+   ensure sn-radio-main
+   ```
 
-ensure sn-radio-main
+3. **Restart** your server or run:
 
+   ```
+   refresh
+   start sn-radio-main
+   ```
 
-Restart your server or run:
+---
 
-refresh
-start sn-radio-main
-
-📞 Support
+## 📞 Support
 
 Need help or want to join the community?
 
-🌐 Official Website: https://creat3ur.wixstudio.com/sn-radio
+* 🌐 Official Website: [https://creat3ur.wixstudio.com/sn-radio](https://creat3ur.wixstudio.com/sn-radio)
+* 💬 Discord: [https://discord.gg/Z8rEm389Wy](https://discord.gg/Z8rEm389Wy)
 
-💬 Discord: https://discord.gg/Z8rEm389Wy
+---
 
-📝 License
+## 📝 License
 
-This script is provided free of charge for personal or community use.
+This script is provided **free of charge** for personal or community use.
 Any resale or redistribution without authorization is strictly prohibited.
 
-🙏 Credits
+---
 
-Thank you for integrating SN-Radio into your server.
-Support us with a donation: https://ko-fi.com/snradio
+## 🙏 Credits
 
-<p align="center"> <img src="https://zupimages.net/up/25/21/tgn9.png" alt="SN-Radio Logo" width="300"/> </p>
+Thank you for integrating **SN-Radio** into your server.
+Support us with a donation: [https://ko-fi.com/snradio](https://ko-fi.com/snradio)
+
+<p align="center">
+  <img src="https://zupimages.net/up/25/21/tgn9.png" alt="SN-Radio Logo" width="300"/>
+</p>  
+
+
