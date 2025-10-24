@@ -2,7 +2,7 @@ fx_version 'bodacious'
 game 'gta5'
 
 author 'RiverFreez-Tv'
-description 'Custom Radio'
+description 'SN-Radio Intégration pour FiveM'
 version '1.0.0'
 
 -- SN RADIO 
