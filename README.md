@@ -64,8 +64,4 @@ Faire un don: https://ko-fi.com/snradio
 
 ## 🎬 Démonstration
 
-Découvrez SN-Radio en action directement en jeu :
-
-[![Voir la démonstration](https://img.youtube.com/vi/trZYy5Tiicw/maxresdefault.jpg)](https://youtu.be/trZYy5Tiicw)
-
-▶️ Cliquez sur l’image pour voir la vidéo de démonstration.
+Découvrez SN-Radio en action directement en jeu: https://youtu.be/trZYy5Tiicw
